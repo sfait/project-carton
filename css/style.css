@@ -471,8 +471,8 @@ body {
     }
 
     .gear__icon {
-        width: 50%;
-        height: 50%;
+        width: 60%;
+        height: 60%;
     }
 
     /* footer */
@@ -532,7 +532,7 @@ body {
         -webkit-transform: rotate(-300deg) translate(298px) rotate(300deg);
         -ms-transform: rotate(-300deg) translate(298px) rotate(300deg);
         transform: rotate(-300deg) translate(298px) rotate(300deg);
-        left: 275px;
+        left: 255px;
     }
 
     .gear__item:nth-of-type(7) {
