@@ -7,12 +7,3 @@ Firma zajmująca się naprawą sprzętu elektrycznego często otrzymuje przedmio
 **Rozwiązanie:**
 Strona wyjaśniająca postępowanie firmy + przyciągająca wzrok naklejka QR z linkiem do niej. 
 Jest to projekt, który prawdopodobnie będzie wykorzystany w rzeczywistości.
-
-**Zespół:**
-*
-*
-*
-
-**Linki:**
-* strona:
-* naklejka:
